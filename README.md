@@ -1,9 +1,6 @@
-- 👋 你好，我是 @intofo
-  
- 目前在做适用于PVE的IDC财务系统的开发,目前存放于私有库
+<h4 align="center">😄 快乐无边</h4>
 
-- 📫 如何联系我 ...
-```
-  mail:vezv@163.com
-  Wechat: getofo
-```
+<p align="center">
+    目前专注于私有库的开发和维护
+</p>
+
